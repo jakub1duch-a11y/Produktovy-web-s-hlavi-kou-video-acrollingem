@@ -1,2 +1,12 @@
 # Produktovy-web-s-hlavi-kou-video-acrollingem
 Mžidla.cz mlžítka pro městské a verejne prostory, produktový katalog
+video scrolling - atmospheric motion video. Keep the original photo composition intact, but add soft volumetric mist, gentle light movement, micro‑particles, and minimal futuristic graphic overlays. Motion must be slow, elegant, premium, and triggered by scroll interaction. No hard cuts, no noise, no chaotic movement. Style: futuristic 2026, liquid‑glass UI, architectural calm, premium product design.”
+Jak má video vypadat (technicky)6–12 sekund1 kamera, žádný pohybjen grafické vrstvy se hýbouexport: WebM + MP41080p nebo 1440p0.5–1.5 % opacity změny za sekundu (velmi jemné)
+Scroll Behavior (přesně jak chceš)0–10 % scroll: čistá fotka10–30 % scroll: fade‑in grafických vrstev30–60 % scroll: video se aktivuje60–100 % scroll: plný motion efekt
+1. Hero sekce: Fotka → Video při scrolluUživatel přijde → vidí čistou fotku produktu.
+Začne scrollovat → fotka se rozpohybuje do jemného videa.Aktivuje se mlha, světlo, gradienty, grafické vrstvyVzniká pocit, že produkt žijeUživatel má pocit, že se dívá na technologii budoucnosti
+2. Produkt se “odhaluje” v několika vrstváchJak uživatel scrolluje dál:vrstva 1 → čistý produktvrstva 2 → ON varianta (mlha se aktivuje)vrstva 3 → technické parametry se objeví jako ikonkyvrstva 4 → video ukáže produkt v reálném prostředíTohle je moderní storytelling: produkt se neukáže celý najednou, ale postupně.
+3. Video sekce: Reálné použitíKrátké 6–12s videa:mlžná socha v parkumlžná socha u kavárnymlžná socha u dětského hřištěmlžná socha u festivaluVšechno pomalé, elegantní, prémiové.
+4.  4. Technické informace → interaktivní záložkyUživatel klikne na “Technické parametry” → otevře se:spotřeba vodydosah mlženímateriálrozměryinstalaceúdržbaKaždá položka má ikonku, která se jemně animuje (0.3s fade).🧱 5. Sekce “Proč si to koupit”Tady musí být jasné důvody, proč je produkt skvělý:snížení teploty až o 6–10 °Cminimální spotřeba vodyatraktivita pro návštěvníkyekologické řešenínízké provozní nákladyKaždý bod má grafickou ikonku + krátké video.🧪 6. Futuristické prvky (doporučené)Tady je to, co dělá web “2026”:liquid‑glass UI (skleněné panely, odlesky)micro‑motion (jemné animace při hoveru)parallax hloubkaambientní gradientyscroll‑triggered mist pulseAI generované motion vrstvy
+z mlhy se zjeví čistá minimalistická stránka s produktovým náhledem pod ním galerií a vedle krátký popis název varianty a tlačítko poptávky s animací spustit jakoby
+l
